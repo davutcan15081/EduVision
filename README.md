@@ -225,18 +225,73 @@ lib/
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📱 Uygulama Önizlemesi
 
-> [!NOTE]
-> Uygulama ekran görüntüleri proje kök dizininde `flutter_*.png` dosyaları olarak mevcuttur.
+<div align="center">
 
-Uygulama 12+ ekran görüntüsü ile tam özellik setini göstermektedir:
-- Ana sayfa ve navigasyon
-- Görsel oluşturma süreci
-- Çizim aracı özellikleri
-- Sınav modu ve soru ekranları
-- Sonuç ve analiz ekranları
-- Ayarlar ve tema seçenekleri
+### Ana Özellikler ve Ekranlar
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="flutter_01.png" alt="Ana Sayfa" width="100%"/>
+      <br/>
+      <b>🏠 Ana Sayfa</b>
+      <br/>
+      Modern ve kullanıcı dostu arayüz
+    </td>
+    <td width="33%" align="center">
+      <img src="flutter_02.png" alt="Görsel Oluşturma" width="100%"/>
+      <br/>
+      <b>🎨 Görsel Oluşturma</b>
+      <br/>
+      AI destekli görsel üretimi
+    </td>
+    <td width="33%" align="center">
+      <img src="flutter_03.png" alt="Çizim Aracı" width="100%"/>
+      <br/>
+      <b>✏️ Çizim Aracı</b>
+      <br/>
+      Gelişmiş çizim özellikleri
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img src="flutter_04.png" alt="Sınav Modu" width="100%"/>
+      <br/>
+      <b>📝 Sınav Modu</b>
+      <br/>
+      Akıllı sınav sistemi
+    </td>
+    <td width="33%" align="center">
+      <img src="flutter_05.png" alt="Soru Ekranı" width="100%"/>
+      <br/>
+      <b>❓ Soru Ekranı</b>
+      <br/>
+      İnteraktif soru arayüzü
+    </td>
+    <td width="33%" align="center">
+      <img src="flutter_06.png" alt="Sonuç Analizi" width="100%"/>
+      <br/>
+      <b>📊 Sonuç Analizi</b>
+      <br/>
+      Detaylı performans raporu
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### ✨ Öne Çıkan Özellikler
+
+**AI Destekli Görsel Oluşturma** • **Gelişmiş Çizim Aracı** • **Akıllı Sınav Sistemi**
+
+**Offline Çalışma** • **Karanlık/Aydınlık Tema** • **Performans Analizi**
+
+</div>
+
 
 ---
 
