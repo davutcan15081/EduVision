@@ -258,26 +258,19 @@ lib/
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="flutter_04.png" alt="Sınav Modu" width="100%"/>
       <br/>
       <b>📝 Sınav Modu</b>
       <br/>
       Akıllı sınav sistemi
     </td>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       <img src="flutter_05.png" alt="Soru Ekranı" width="100%"/>
       <br/>
-      <b>❓ Soru Ekranı</b>
+      <b>❓ Sınav Ekranı</b>
       <br/>
-      İnteraktif soru arayüzü
-    </td>
-    <td width="33%" align="center">
-      <img src="flutter_06.png" alt="Sonuç Analizi" width="100%"/>
-      <br/>
-      <b>📊 Sonuç Analizi</b>
-      <br/>
-      Detaylı performans raporu
+      İnteraktif sınav deneyimi
     </td>
   </tr>
 </table>
